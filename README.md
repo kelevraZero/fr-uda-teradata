@@ -1,0 +1,1 @@
+# fr-uda-teradata
